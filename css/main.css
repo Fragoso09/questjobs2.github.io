@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Times, serif;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.container {
+  padding: 20px;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+#quest-logo {
+  width: 400px;
+  height: 130px;
+}
